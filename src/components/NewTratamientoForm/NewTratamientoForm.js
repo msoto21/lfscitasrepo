@@ -1,6 +1,5 @@
 import { ErrorMessage, Field, Form, Formik } from "formik";
-import React, { Component } from "react";
-import data from '../../data.json';
+import React from "react";
 import './NewTratamientoForm.css';
 
 

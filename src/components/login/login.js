@@ -1,6 +1,5 @@
 import { ErrorMessage, Field, Form, Formik } from "formik";
 import React, { useState } from "react";
-import  { NavLink } from 'react-router-dom';
 import './login.css';
 // import { connect } from "react-redux";
 import { useDispatch } from "react-redux";
@@ -24,7 +23,7 @@ const Login = () => {
   const submitHandler = e => {
     e.preventDefault();
     console.log(e.target[0].value);
-    const name = e.target[0].value;
+    //const name = e.target[0].value;
     navigate('/');
     // e.target[0].value = '';
     // setUserName(username.value)

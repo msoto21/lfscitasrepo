@@ -1,6 +1,4 @@
 import React from "react";
-import lfsrotulo from '../../images/lfsrotulo.jpg';
-import Navbar from "../Navbar/Navbar";
 import "./Header.css";
 
 export const Header = () => {
