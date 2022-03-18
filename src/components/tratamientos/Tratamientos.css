@@ -1,0 +1,20 @@
+.tratamientos {
+  margin-left: 44px;
+  min-height: 500px;
+}
+
+.tratamientos h1 {
+  margin: 20px auto;
+}
+
+.btn-nuevo {
+  position: relative;
+  top: 28px;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  background: orange;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: #fff;
+}

@@ -1,0 +1,28 @@
+.listItem {
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+    max-width: 75%;
+    min-height: 2rem;
+}
+
+.checked {
+    font-weight: bolder;
+}
+
+table {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 700px;
+}
+
+table thead tr {
+    background: #d1d187;
+    line-height: 35px;
+}
+
+.precio {
+    text-align: right;
+}

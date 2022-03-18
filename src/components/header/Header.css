@@ -1,0 +1,11 @@
+.rotulo {
+    background: url('../../images/lfsrotulo.jpg');
+    max-width: 100%;
+    min-height: 290px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+img {
+    border-bottom: 2px solid orange;
+}

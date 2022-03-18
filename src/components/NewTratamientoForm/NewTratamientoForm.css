@@ -1,0 +1,44 @@
+.tmp-container {
+  margin-left: 19px;
+  width: 440px;
+  min-height: 500px;
+}
+.form-wrap {
+  background: white;
+  padding: 15px 25px;
+  color: #333;
+}
+
+.form-group {
+  margin-top: 15px;
+}
+
+.form-wrap .form-group label {
+  display: block;
+  color: #666;
+}
+
+.form-wrap .form-group input {
+  width: 100%;
+  padding: 10px;
+  border: #ddd 1px solid;
+  border-radius: 5px;
+}
+
+textarea {
+  width: 405px;
+  height: 80px;
+  border: #ddd 1px solid;
+}
+
+.btn-guardar {
+  position: relative;
+  top: 28px;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  background: orange;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: #fff;
+}

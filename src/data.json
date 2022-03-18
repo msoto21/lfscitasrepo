@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name" : "Corte Caballero"
+    },
+    {
+        "id": 2,
+        "name" : "Corte Dama"
+    },
+    {
+        "id": 3,
+        "name" : "Mechas"
+    },
+    {
+        "id": 4,
+        "name" : "Highlights"
+    },
+    {
+        "id": 5,
+        "name" : "Blower"
+    }
+]
