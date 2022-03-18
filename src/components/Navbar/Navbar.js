@@ -1,7 +1,7 @@
 import  { NavLink, Outlet } from 'react-router-dom';
 import './Navbar.css';
 // import { connect } from 'react-redux';
-import { useDispatch, useSelector } from 'react-redux';
+import { useSelector } from 'react-redux';
 
 const Navbar = () => {
 

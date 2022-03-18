@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from 'react';
 import { Tratamiento } from '../tratamiento/Tratamiento';
 import './Tratamientos.css';
-import  { NavLink, Outlet } from 'react-router-dom';
+import  { NavLink } from 'react-router-dom';
 
 export const Tratamientos = () => {
 
